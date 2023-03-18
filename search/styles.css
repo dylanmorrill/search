@@ -161,7 +161,7 @@ form {
   text-align: right;
 } 
 
-.simpleButtonDiv > button {
+.simpleSearchbutton {
   background-color: #f8f9fa;
   border: 1px solid #f8f9fa;
   border-radius: 4px;
@@ -176,14 +176,14 @@ form {
   cursor: pointer;
 }
 
-.simpleButtonDiv > button:hover {
+.simpleSearchbutton:hover {
   box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
   background-color: #f8f9fa;
   border: 1px solid #dadce0;
   color: #202124;
 }
 
-.simpleButtonDiv > button:focus {
+.simpleSearchbutton:focus {
   border: 1px solid #4285f4;
   outline: none;
 }
